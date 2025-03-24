@@ -47,8 +47,8 @@ openApiSpecs:
 - "https://raw.githubusercontent.com/stephanbcbauer/bpdm/refs/heads/main/openApi/pcf/kit_pcf-openAPI_1-1-1.yaml"
 
 # MaaS KIT
-- "https://raw.githubusercontent.com/stephanbcbauer/bpdm/refs/heads/main/openApi/maas/kit_maas-ManufacturingCapability-openapi_3-0-0-openAPI.yaml"
-- "https://raw.githubusercontent.com/stephanbcbauer/bpdm/refs/heads/main/openApi/maas/kit_maas-RfQ-openapi_3-0-0-openAPI.yaml"
+- "https://raw.githubusercontent.com/stephanbcbauer/bpdm/refs/heads/main/openApi/maas/kit_maas-ManufacturingCapability-openapi_3-0-0.yaml"
+- "https://raw.githubusercontent.com/stephanbcbauer/bpdm/refs/heads/main/openApi/maas/kit_maas-RfQ-openapi_3-0-0.yaml"
 
 # Modular Production KIT
 - "https://raw.githubusercontent.com/stephanbcbauer/bpdm/refs/heads/main/openApi/modular-production/kit_modular-production-GetProductionForecast-openAPI_v2.yml"
