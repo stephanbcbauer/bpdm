@@ -5,4 +5,4 @@ repositories:
     usage: "Mono-Repository for the Business Partner Data Management services"
     url: "https://github.com/eclipse-tractusx/bpdm"
 openApiSpecs:
-- "https://raw.githubusercontent.com/stephanbcbauer/bpdm/refs/heads/main/test.yaml"
+- "https://raw.githubusercontent.com/stephanbcbauer/bpdm/refs/heads/main/kit_test-stephanbcbauer.yaml"
